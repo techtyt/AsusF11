@@ -1,3 +1,5 @@
+#THIS PROGRAM DOES OCASSIONALLY FACE ISSUES.
+#CONTINUE AT YOUR RISK
 import tkinter as tk
 import pyautogui
 import keyboard

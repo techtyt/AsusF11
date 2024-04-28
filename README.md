@@ -12,4 +12,5 @@ Make your Asus laptop's F11 key turn on/off the display, instead of taking a scr
 
 ## Downsides to using this
 - Asus hardwires the F11 key to win+shift+s, which is a windows shortcut to take a screenshot. So with this script, you won't be able to use win+shift+s. You can use the Prt Sc Key instead
-- PowerToys / AHK must be running in the backround 
+- PowerToys / AHK must be running in the backround
+- Sometimes acts weird, so use alt+f4, or alt tab and click on X to quit

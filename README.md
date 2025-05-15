@@ -7,7 +7,8 @@ Make your Asus laptop's F11 key turn on/off the display, instead of taking a scr
 - Keyboard&pyautogui libraries
 ## Setup
 - Download PowerToys from http://github.com/microsoft/powertoys
-- In Powertoys, go to Keyboard Manager and in remap shortcuts, map win+shift+s to Run program > python executable location > args: location of python file(in this repo)
+- In Powertoys, go to Keyboard Manager and in remap shortcuts, map win+shift+s to Run program > (python executable location) > args: location of python file(in this repo)
+- set the python executable location of the pythonw/pyw executable on your computer, it should be C:\Windows\pyw.exe
 - Download the python file in this repo, and put the path in args of powertoys keyboard mapping
 
 ## Downsides to using this
